@@ -7,7 +7,7 @@ This interactive *Salesforce Sales Dashboard* is built using Microsoft Excel and
 
 ## 📷 Screenshot
 
-![Salesforce Dashboard]( )
+![Salesforce Dashboard]( https://github.com/Harsh-analyticx/Spotify-Listening-Analytics-Dashboard-Power-BI-Project/blob/main/Screenshot%202025-06-28%20230637.png)
 
 This dashboard helps visualize and analyze sales data across multiple years (2015 & 2016) and dimensions, including:
 
