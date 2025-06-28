@@ -5,6 +5,10 @@ This interactive *Salesforce Sales Dashboard* is built using Microsoft Excel and
 
 ## 🔍 Dashboard Overview
 
+## 📷 Screenshot
+
+![Salesforce Dashboard]( )
+
 This dashboard helps visualize and analyze sales data across multiple years (2015 & 2016) and dimensions, including:
 
 - 📦 *Product Categories & Sub-Categories*
