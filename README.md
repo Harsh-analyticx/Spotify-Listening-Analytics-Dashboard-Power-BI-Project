@@ -1,93 +1,82 @@
-# 📊 Salesforce Sales Dashboard - Excel Edition
+🎧 Spotify Listening Analytics Dashboard (Power BI)
 
-This interactive *Salesforce Sales Dashboard* is built using Microsoft Excel and provides deep insights into company sales performance across product categories, geographies, and customer demographics.
-
-
-## 🔍 Dashboard Overview
-
-## 📷 Screenshot
-
-![Salesforce Dashboard]( https://github.com/Harsh-analyticx/Spotify-Listening-Analytics-Dashboard-Power-BI-Project/blob/main/Screenshot%202025-06-28%20230637.png)
-
-This dashboard helps visualize and analyze sales data across multiple years (2015 & 2016) and dimensions, including:
-
-- 📦 *Product Categories & Sub-Categories*
-- 🌎 *Country-wise & State-wise Performance*
-- 🧑‍🤝‍🧑 *Customer Demographics (Age & Gender)*
-- 📅 *Time Trends (Yearly & Monthly)*
+This Spotify Listening Dashboard is a powerful visual report that analyzes a user's listening behavior across different years, devices, and playback reasons using Power BI. It transforms raw streaming history data into rich insights, making it easier to understand listening trends and platform usage.
 
 
-## 📈 Key KPIs Addressed
+---
 
-### 🔹 General Sales
-- What is the total revenue generated in 2015 and 2016?
-- Which sub-category generated the highest revenue?
-- Which product category (Accessories, Bikes, Clothing) has the highest sales quantity?
+📈 Dashboard Highlights:
 
-### 🔹 Geographic Insights
-- Which country generated the most revenue?
-- What is the sales quantity by U.S. states?
-- Which states are top contributors to total sales?
+🗓 Listening Trends by Year and Month
+Displays total milliseconds played across different months in 2016, with a peak in December (204M ms).
 
-### 🔹 Customer Demographics
-- What is the customer distribution by gender?
-- Which age group contributes the most to sales?
-- What is the average customer age?
+📊 Reason for Playback End
+A donut chart categorizes the end of track reasons such as:
 
-### 🔹 Product Category Insights
-- Revenue contribution comparison of Accessories vs Bikes vs Clothing
-- High and low performing sub-categories
-- Category-wise sales trends
+trackdone (76.86%)
 
-### 🔹 Time-Based Analysis
-- Which month had the highest sales in 2016?
-- Are there seasonal patterns or trends?
+endplay, fwdbtn, logout, and other minor events
 
 
-## 📊 Visual Components
+💿 Top Albums Played
+Shows top albums by listening time:
 
-- *Bar Charts* for:
-  - Sub-category revenue
-  - Country-wise revenue
-  - Product category breakdown
-- *Line Chart* for:
-  - State-wise sales quantity
-- *Histogram*:
-  - Customer age distribution
-- *Pie Chart*:
-  - Gender-based segmentation
-- *Slicers*:
-  - Year and Month filters
+At Folsom Prison (20M ms)
+
+Elvis At Sun (17M ms)
+
+Ultimate Sinatra, New York, Timeliness, etc.
 
 
-## 🛠 Tools Used
+📱 Platform Usage Analysis
+Highlights listening by device type:
 
-- *Microsoft Excel*
-  - Pivot Tables
-  - Pivot Charts
-  - Slicers & Timeline Filters
-  - Conditional Formatting
+Android dominates usage
 
-
-## 💡 Use Cases
-
-- Monthly/Yearly Sales Reporting
-- Sales Strategy Planning
-- Market Segmentation Analysis
-- Product Category Performance Review
-- Executive Dashboards & Presentations
+Followed by iOS, Windows, and cast to device
 
 
-## 📎 How to Use
+📊 Monthly Listening Pattern
+Line chart showing month-over-month listening behavior in billions.
 
-1. Open the Excel file
-2. Use the *Year* and *Month* slicers to filter data
-3. Analyze performance across visuals and charts
-4. Modify or replace source data for different datasets
+🔁 Shuffle & Skips
+Indicates 6413 shuffle and skip counts respectively, showing engagement levels.
 
 
-## 📬 Contact
 
-For feedback or collaboration, reach out via GitHub or [https://www.linkedin.com/in/harsh-vishwakarma-20b542274?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1qQ0dyyjScWLYusGeFRRBQ%3D%3D](#).
+---
+
+🛠 Tools & Technologies:
+
+Power BI
+
+DAX for custom calculations
+
+Spotify Listening History Data
+
+Data transformation via Power Query
+
+
+
+---
+
+📌 Use Cases:
+
+Personal music habit tracking
+
+Understanding listening trends over time
+
+Identifying favorite artists/albums
+
+Platform/device optimization insights
+
+
+
+---
+
+🟢 Ideal for Spotify users, data enthusiasts, or anyone learning Power BI dashboarding using real-world streaming data.
+
+> 📁 Want to explore more? Add your own Spotify data to personalize this dashboard!
+
 
 
