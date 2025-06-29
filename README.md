@@ -4,6 +4,10 @@ This Spotify Listening Dashboard is a powerful visual report that analyzes a use
 
 
 ---
+## 📷 Screenshot
+
+![Spotify Listening Analytics Dashboard (Power BI)
+]()
 
 📈 Dashboard Highlights:
 
