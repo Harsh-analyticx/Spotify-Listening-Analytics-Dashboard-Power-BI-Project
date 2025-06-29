@@ -80,7 +80,6 @@ Platform/device optimization insights
 
 🟢 Ideal for Spotify users, data enthusiasts, or anyone learning Power BI dashboarding using real-world streaming data.
 
-> 📁 Want to explore more? Add your own Spotify data to personalize this dashboard!
 
 
 
