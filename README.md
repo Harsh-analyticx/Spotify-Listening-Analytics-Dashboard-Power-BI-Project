@@ -7,7 +7,7 @@ This Spotify Listening Dashboard is a powerful visual report that analyzes a use
 ## 📷 Screenshot
 
 ![Spotify Listening Analytics Dashboard (Power BI)
-]()
+](https://github.com/Harsh-analyticx/Spotify-Listening-Analytics-Dashboard-Power-BI-Project/blob/main/Screenshot%202025-06-28%20230637.png)
 
 📈 Dashboard Highlights:
 
